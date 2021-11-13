@@ -1,1 +1,1 @@
-# multimedia
+# multimidia
