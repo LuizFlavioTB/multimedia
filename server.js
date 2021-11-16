@@ -2,7 +2,7 @@ var connect = require('connect');
 var serveStatic = require('serve-static');
 
 const host = 'localhost';
-const port = 8000;
+const port = 3000;
 
 
 connect().use(serveStatic(__dirname)).listen(port, host, function () {
