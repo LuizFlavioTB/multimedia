@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  margin: 10px auto;
+  width: 80%;
+  text-align: center;
+}
+
+h1, .description {
+  margin-bottom: 20px;
+}
+
+.description a {
+  text-decoration: none;
+  color: blue;
+}
+
+.link {
+  margin-bottom: 10px;
+  
+}
+.link a {
+  text-decoration: none;
+  color: blue;
+}
